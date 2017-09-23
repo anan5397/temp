@@ -1,0 +1,532 @@
+Temperature: 25.00 *C
+Humidity: 58.00%
+Temperature: 25.00 *C
+Humidity: 58.00%
+Temperature: 25.00 *C
+Humidity: 59.00%
+Temperature: 25.00 *C
+Humidity: 59.00%
+Temperature: 25.00 *C
+Humidity: 59.00%
+Temperature: 25.00 *C
+Humidity: 59.00%
+Temperature: 25.00 *C
+Humidity: 59.00%
+Temperature: 25.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 26.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 27.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 28.00 *C
+Humidity: 59.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 29.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 58.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 57.00%
+Temperature: 30.00 *C
+Humidity: 56.00%
+Temperature: 30.00 *C
+Humidity: 56.00%
+Temperature: 30.00 *C
+Humidity: 56.00%
+Temperature: 30.00 *C
+Humidity: 56.00%
+Temperature: 30.00 *C
+Humidity: 56.00%
+Temperature: 30.00 *C
+Humidity: 56.00%
+Temperature: 30.00 *C
+Humidity: 56.00%
+Temperature: 30.00 *C
+Humidity: 56.00%
+Temperature: 30.00 *C
+Humidity: 56.00%
+Temperature: 30.00 *C
+Humidity: 56.00%
+Temperature: 30.00 *C
+Humidity: 55.00%
+Temperature: 30.00 *C
+Humidity: 55.00%
+Temperature: 30.00 *C
+Humidity: 55.00%
+Temperature: 30.00 *C
+Humidity: 55.00%
+Temperature: 30.00 *C
+Humidity: 55.00%
+Temperature: 30.00 *C
+Humidity: 55.00%
+Temperature: 30.00 *C
+Humidity: 55.00%
+Temperature: 30.00 *C
+Humidity: 55.00%
+Temperature: 30.00 *C
+Humidity: 55.00%
+Temperature: 30.00 *C
+Humidity: 55.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 54.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 53.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 52.00%
+Temperature: 30.00 *C
+Humidity: 51.00%
+Temperature: 30.00 *C
+Humidity: 51.00%
+Temperature: 30.00 *C
+Humidity: 51.00%
+Temperature: 30.00 *C
+Humidity: 51.00%
+Temperature: 30.00 *C
+Humidity: 51.00%
+Temperature: 30.00 *C
+Humidity: 51.00%
+Temperature: 30.00 *C
+Humidity: 51.00%
+Temperature: 30.00 *C
+Humidity: 51.00%
+Temperature: 30.00 *C
+Humidity: 51.00%
+Temperature: 30.00 *C
+Humidity: 51.00%
+Temperature: 30.00 *C
+Humidity: 50.00%
+Temperature: 30.00 *C
+Humidity: 50.00%
